@@ -1,0 +1,198 @@
+.parent{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.wiki-img{
+    text-align: center;
+    position: relative;
+    top: 90px;
+}
+
+.wiki-img img{
+width: 220px;
+}
+
+.anch{
+text-decoration: none;
+color:#7366cb;
+font-weight: 600;
+font-family: 'open sans', sans-serif;
+cursor: pointer;
+font-size: 16px;
+
+}
+
+.anch:hover{
+    border-bottom: 1px solid blue;
+}
+
+
+.paragraph{
+    margin-top: -10px;
+}
+
+.absolute-item{
+position: absolute;
+ text-align: center;
+    width: 140px;
+    font-family: 'open sans', sans-serif;
+    font-size: 14px;
+}
+
+.absolute-item:hover{
+background-color: whitesmoke;
+}
+
+.abs1{  
+    top: 190px;
+    left: 465px;
+    
+}
+
+.abs2{
+    top: 260px ;
+    left: 400px;
+    
+}
+
+.abs3{
+    top: 335px;
+    left: 385px; 
+}
+
+.abs4{
+    top: 405px;
+    left: 390px; 
+    width: 160px;
+}
+
+.abs5{
+    top: 480px;
+    left: 465px;
+}
+
+.abs6{  
+    top: 190px;
+    right: 465px;
+    
+}
+
+.abs7{
+    top: 260px ;
+    right: 400px;
+    
+}
+
+.abs8{
+    top: 335px;
+    right: 385px; 
+}
+
+.abs9{
+    top: 405px;
+    right: 390px; 
+    width: 160px;
+}
+
+.abs10{
+    top: 480px;
+    right: 465px;
+}
+
+.parent-input{
+    margin-top: 190px;
+    margin-left: 420px;
+  
+}
+
+.input{
+    display: flex;
+    gap: 15px;
+    width: 480px;
+    height: 38px;
+    border: 2px solid #ebebec;
+}
+
+.hovee:hover{
+    background-color: #ebebec;
+
+}
+
+
+
+
+.imgggg{
+    background-color: #3056a9;
+    width: 100px; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.languages{
+    width: 300px;
+    height: 40px;
+    border: 2px solid #818183;
+    display: flex;
+    gap: 10px;
+    padding: 0px 10px;
+    margin-left: 500px;
+    margin-top: 35px;
+    position: relative;
+    cursor: pointer;
+}
+
+
+
+
+.languages:hover{
+    background-color: #ececec;
+    background-color: transparent;
+}
+
+.languages select{
+    border: none;
+    outline: none;
+}
+
+.margin{
+    top: 643px;
+    left: 400px;
+    position: absolute;
+    color: #818183;
+}
+
+.margin2{
+    position: absolute;
+    top: 643px;
+    right: 400px;
+     color: #818183;
+}
+
+.languages2{
+    width: 300px;
+    height: 40px;
+    border: 2px solid #818183;
+    display: flex;
+    gap: 10px;
+    padding: 0px 10px;
+    margin-left: 500px;
+    margin-top: 35px;
+    position: relative;
+    cursor: pointer;
+}
+
+.languages2 select{
+    border: none;
+    outline: none;
+}
+
+.languages2 :hover {
+    background-color: #818183;
+    
+}
+
+
+
